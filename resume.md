@@ -53,6 +53,7 @@
   + Javascript/jQuery
 + Enforced Test Driven Development
   + Rewrote Unit Tests to properly test code
+
 ---
 ## Education:
 
@@ -88,6 +89,7 @@
 </table>
 
 + SQL/Database Management
+
 ---
 ## Skills:
 + **Languages:** Javascript, JSON, Python, SQL, Regex, HTML/CSS
