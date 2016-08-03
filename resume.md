@@ -19,6 +19,7 @@
 + Assisted administrators with various services
   + DNS and port forwarding
   + SMTP and Exchange configuration
+  + IIS configuration and usage
   + User and group based permissions and policies
 + FoIP/VoIP Technology
   + t.30, t.38, SIP
