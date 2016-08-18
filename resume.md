@@ -95,7 +95,7 @@
 ## Skills:
 + **Languages:** Javascript, JSON, R, Python, SQL, C/C++, Java, Regex, HTML/CSS
 + **Frameworks:** Node.JS, React, Chart.JS, Quantmod, Apex
-+ **Platforms:** Heroku, Salesforce.com, Microsoft Dynamics
++ **Platforms:** AWS, Heroku, Salesforce.com, Microsoft Dynamics
 + **Virtualization**: VirtualBox, VMWare, Vagrant, Chef
 + Extensive FoIP and VoIP knowledge and experience
 + Active in development community
