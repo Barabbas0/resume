@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td><b>Biscom, Inc.</b></td>
-    <td>August 2014-Present</td>
+    <td>September 2014-Present</td>
     <td>Chelmsford, MA</td>
   </tr>
 </table>
