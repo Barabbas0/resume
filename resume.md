@@ -37,7 +37,7 @@
 + Monitoring of containerized data feed, trade, and liquidity systems
 + Used SQL to investigate order executions
 + Troubleshooting networks and systems
-+ Laid off due to aquisition and consolidation
++ Laid off due to acquisition and consolidation
 
 <table>
   <tr>
