@@ -26,6 +26,16 @@
 
 <table>
   <tr>
+    <td><b>Massachussetts Citizens' Initiative Review Pilot Project</b></td>
+    <td>August 2016</td>
+    <td>Watertown, MA</td>
+  </tr>
+</table>
+
+Over four days in late August I worked with 19 other Massachusetts voters as a panelist on a pilot project designed to create a statement to be mailed out to voters in advance of the November ballot. Over those four days, we heard from a number of advocates and experts on ballot question 4. As a diverse group, we had to work together to create a statement that we all agreed with. At times, I found myself taking control and moderating a group of people up to seventy years my senior to progress the process. I learned a lot about knowing when to speak and when to listen and how to cooperate with other opinions that often differ drastically from my own. It was an excellent experience and one I hope the Commonwealth of Massachusetts continues in the future. For more information, please see http://www.cirmass2016.org/, or contact me.
+
+<table>
+  <tr>
     <td><b>Boston Technologies</b></td>
     <td>May 2014-July 2014</td>
     <td>Boston, MA</td>
