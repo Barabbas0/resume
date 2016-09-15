@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td><b>Massachussetts Citizens' Initiative Review Pilot Project</b></td>
+    <td><b>Massachusetts Citizens' Initiative Review Pilot Project</b></td>
     <td>August 2016</td>
     <td>Watertown, MA</td>
   </tr>
