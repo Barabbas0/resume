@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-Over four days in late August I worked with 19 other Massachusetts voters as a panelist on a pilot project designed to create a statement to be mailed out to voters in advance of the November ballot. Over those four days, we heard from a number of advocates and experts on ballot question 4. As a diverse group, we had to work together to create a statement that we all agreed with. At times, I found myself taking control and moderating a group of people up to seventy years my senior to progress the process. I learned a lot about knowing when to speak and when to listen and how to cooperate with other opinions that often differ drastically from my own. It was an excellent experience and one I hope the Commonwealth of Massachusetts continues in the future. For more information, please see http://www.cirmass2016.org/, or contact me.
+Over four days in late August I worked with 19 other Massachusetts voters as a panelist on a pilot project designed to create a statement to be mailed out to voters in advance of the November ballot. Over those four days, we heard from a number of advocates and experts on a specific ballot question. As a diverse group, we had to work together to create a statement that we all agreed with. At times, I found myself taking control and moderating a group of people up to seventy years my senior to progress the process. I learned a lot about knowing when to speak and when to listen and how to cooperate with other opinions that often differ drastically from my own. It was an excellent experience and one I hope the Commonwealth of Massachusetts continues in the future. For more information, please see http://www.cirmass2016.org/, or contact me.
 
 <table>
   <tr>
@@ -106,7 +106,7 @@ Over four days in late August I worked with 19 other Massachusetts voters as a p
 + **Languages:** Javascript, JSON, R, Python, SQL, C/C++, Java, Regex, HTML/CSS
 + **Frameworks:** Node.JS, React, Chart.JS, Quantmod, Apex
 + **Platforms:** AWS, Heroku, Salesforce.com, Microsoft Dynamics
-+ **Virtualization**: VirtualBox, VMWare, Vagrant, Chef
++ **Virtualization:** VirtualBox, VMWare, Vagrant, Chef
 + Extensive FoIP and VoIP knowledge and experience
 + Active in development community
 + Self-taught and motivated
