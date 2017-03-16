@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td><b>Biscom, Inc.</b></td>
-    <td>September 2014-Present</td>
+    <td>September 2014-February 2017</td>
     <td>Chelmsford, MA</td>
   </tr>
 </table>
@@ -19,20 +19,9 @@
 + Assisted administrators with various services
   + DNS and port forwarding
   + SMTP and Exchange configuration
-  + IIS configuration and usage
+  + MS SQL and IIS configuration and usage
   + User and group based permissions and policies
 + FoIP/VoIP Technology
-  + t.30, t.38, SIP
-
-<table>
-  <tr>
-    <td><b>Massachusetts Citizens' Initiative Review Pilot Project</b></td>
-    <td>August 2016</td>
-    <td>Watertown, MA</td>
-  </tr>
-</table>
-
-Over four days in late August I worked with 19 other Massachusetts voters as a panelist on a pilot project designed to create a statement to be mailed out to voters in advance of the November ballot. Over those four days, we heard from a number of advocates and experts on a specific ballot question. As a diverse group, we had to work together to create a statement that we all agreed with. At times, I found myself taking control and moderating a group of people up to seventy years my senior to progress the process. I learned a lot about knowing when to speak and when to listen and how to cooperate with other opinions that often differ drastically from my own. It was an excellent experience and one I hope the Commonwealth of Massachusetts continues in the future. For more information, please see http://www.cirmass2016.org/, or contact me.
 
 <table>
   <tr>
@@ -64,9 +53,31 @@ Over four days in late August I worked with 19 other Massachusetts voters as a p
   + Javascript/jQuery
 + Enforced Test Driven Development
   + Rewrote Unit Tests to properly test code
+  
+<table>
+  <tr>
+    <td><b>Massachusetts Citizens' Initiative Review Pilot Project</b></td>
+    <td>August 2016</td>
+    <td>Watertown, MA</td>
+  </tr>
+</table>
+
+Collaborated with nineteen other Massachusetts voters as a panelist on state pilot project to create a statement mailed to voters in advance of the November ballot. Over four days, panelists heard from a number of advocates and experts on a specific ballot question. As a diverse group, we had to work together to create consensus around a statement. At times, the group looked to me to moderate discussions with people up to seventy years my senior to maintain progress. I learned to operate in a ‘step-up, step-back’ process, and how co-experience and co-creation can lead to great transformations in understanding and discourse.
 
 ---
 ## Education:
+
+<table>
+  <tr>
+    <td>Cape Cod Community College</td>
+    <td>Barnstable, MA</td>
+    <td>2012</td>
+  </tr>
+</table>
+
++ C++
++ Java
++ SQL/Database Management
 
 <table>
   <tr>
@@ -80,33 +91,6 @@ Over four days in late August I worked with 19 other Massachusetts voters as a p
   + C
   + Java
 
-<table>
-  <tr>
-    <td>Cape Cod Community College</td>
-    <td>Barnstable, MA</td>
-    <td>2012</td>
-  </tr>
-</table>
-
-+ C++
-+ Java
-
-<table>
-  <tr>
-    <td>Mass Bay Community College</td>
-    <td>Wellesley, MA</td>
-    <td>2013</td>
-  </tr>
-</table>
-
-+ SQL/Database Management
-
 ---
 ## Skills:
-+ **Languages:** Javascript, JSON, R, Python, SQL, C/C++, Java, Regex, HTML/CSS
-+ **Frameworks:** Node.JS, React, Chart.JS, Quantmod, Apex
-+ **Platforms:** AWS, Heroku, Salesforce.com, Microsoft Dynamics
-+ **Virtualization:** VirtualBox, VMWare, Vagrant, Chef
-+ Extensive FoIP and VoIP knowledge and experience
-+ Active in development community
-+ Self-taught and motivated
++ **Languages & Platforms:** Javascript, JSON, R, Python, SQL, Java, Regex, Salesforce.com
